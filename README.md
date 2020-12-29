@@ -8,5 +8,5 @@
   
   Configure o Token e o ID do Bot.
   
-      Troque o ome entre outros..!
+      Troque o nome entre outros..!
   # FSOCIETY and The God's!
